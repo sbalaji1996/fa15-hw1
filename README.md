@@ -2,7 +2,7 @@
 This homework assignment involves writing scripts in ruby in order to get a feel for the Ruby
 programming language.
 
-Identical to Fall 2015 HW 1.
+Identical to Fall 2015 Homework 1.
 
 ## Q1
 In hw1.rb there is a function called check_squared_sum.  It function takes two integers, a and b,
